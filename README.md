@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+This is another branch of the project named "readme-edit"
+
 - Bulleted
 - List
 
